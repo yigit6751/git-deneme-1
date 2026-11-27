@@ -5,8 +5,8 @@ Büyük makine veya insanların giremediği dar alanlarda arama-kurtarma çalı�
 
 Bünyesindeki termal kamera, RGB kamera ve mikrofon gibi sensörlerle; yüksek manevra hakimiyeti ve havada asılı kalarak yüksek doğrulukta veri çekme kabiliyetlerinden faydalanılarak bu verilerin GCS'ye (Yer Kontrol İstasyonu) iletilmesi ve orada okunması sonucunda enkaz altında insan tespitinin yapılması.
 
-B2
-1. Otonom uçuş için GCS üzerinden belirlenen alanları tarayabilmesi:
+
+B2 - 1. Otonom uçuş için GCS üzerinden belirlenen alanları tarayabilmesi:
 
 Manuel uçuşa gerek kalmadan hiçbir noktanın atlanmadan araştırılması,
 
@@ -36,12 +36,12 @@ Termal kamera, RGB kamera ve mikrofon verilerinin yanında GPS verilerinin de GC
 
 Verilerin MAVLink protokolüyle telemetri radyosuna iletilip oradan radyo sinyallerine dönüştürülmesi, GCS'de tekrardan MAVLink'e dönüştürülerek anlamlı hale getirilmesi.
 
-B3
+B3 - 
 <img width="1199" height="1312" alt="İHA Görev Algoritması Akış Şeması" src="https://github.com/user-attachments/assets/b3b38fab-526c-4063-8f2d-e01c9b12766e" />
 
-B4
 
-BAŞLA
+
+B4 - BAŞLA
 
 görev = devam
 taralı alan = 0
@@ -85,12 +85,12 @@ eğer sonu
 
 BİTİR
 
-B5
+B5 - 
 
 <img width="1536" height="1024" alt="Drone Sistemi Veri Akış Şeması" src="https://github.com/user-attachments/assets/23ec8fca-bdc8-449f-b20b-ade5820b94f3" />
 
-B6
-1. Pervane sesinden kaynaklı akustik verilerin bastırılması:
+
+B6 - 1. Pervane sesinden kaynaklı akustik verilerin bastırılması:
 
 Pervane sesini filtreleyecek algoritmalar kullanılması veya termal tespitler sonucunda drone'un o noktaya iniş yaparak pervanelerini durdurup salt dinleme moduna geçmesi.
 
