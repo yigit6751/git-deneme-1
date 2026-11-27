@@ -111,3 +111,6 @@ Yapay zekâ araçlarının çektiği akımı azaltan algoritmaların kullanılma
 Drone'a LED'ler yerleştirilerek aydınlatmanın sağlanması ve toz geçirmeyen lensler tercih edilmesi.
 
 
+Kaynakça: ArduPilot Documentation, PX4 User Guide, MAVLink Developer Guide, ROS 2 Documentation ve OpenCV / Ultralytics YOLOv8 Documentation, Gemini, Chat GPT
+
+
